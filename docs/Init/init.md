@@ -5,6 +5,7 @@ git config  user.name "Alice"
 git config  user.email "alys8715ia@gmail.com"
 
 git push --set-upstream origin work
+git commit --amend --reset-author -m 'some comments'
 
 git remote remove origin
 git remote add origin xxx
