@@ -22,7 +22,7 @@ export default defineUserConfig({
 
         {
           text: 'General',
-          collapsable: true,
+          collapsible: true,
           children: [
             '/order/sec01.md',
             '/order/sec02.md',
@@ -34,7 +34,7 @@ export default defineUserConfig({
         },
         {
           text: 'Story - A ',
-          collapsable: true,
+          collapsible: true,
           children: [
             '/story/A/A_001.md',
             '/story/A/A_002.md',
@@ -62,7 +62,7 @@ export default defineUserConfig({
         },
         {
           text: 'Story - B ',
-          collapsable: true,
+          collapsible: true,
           children: [
             '/story/B/B_001.md',
             '/story/B/B_002.md',
@@ -86,6 +86,25 @@ export default defineUserConfig({
             // '/story/B/B_020.md',
             // '/story/B/B_021.md',
             // '/story/B/B_022.md',
+          ],
+        },
+        {
+          text: 'Story - T ',
+          collapsible: true,
+          children: [
+            '/story/T/T_001.md',
+            '/story/T/T_002.md',
+            '/story/T/T_003.md',
+            '/story/T/T_004.md',
+            '/story/T/T_005.md',
+            '/story/T/T_006.md',
+            '/story/T/T_007.md',
+            '/story/T/T_008.md',
+            '/story/T/T_009.md',
+            '/story/T/T_010.md',
+            '/story/T/T_011.md',
+            '/story/T/T_012.md',
+            '/story/T/T_013.md',
           ],
         },
       ]
