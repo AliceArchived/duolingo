@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app-lcyhwV3y.js";const r={};function o(c,s){return a(),e("div")}const _=t(r,[["render",o],["__file","032.html.vue"]]),l=JSON.parse('{"path":"/story/T/032.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1747411039000},"filePathRelative":"story/T/032.md"}');export{_ as comp,l as data};
