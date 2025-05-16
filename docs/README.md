@@ -6,13 +6,33 @@ description: some description
 
 ## Review
 
-- [A Letter to Eddy](/duolingo/story/A/A_005.html)
-- [A Real Prince](/duolingo/story/A/A_008.html)
-- [A Relaxing Weekend](/duolingo/story/A/A_009.html)
-- [A Romantic Date](/duolingo/story/A/A_010.html)
-- [Adopt These Dogs](/duolingo/story/A/A_013.html)
-- [Aliens Are Real](/duolingo/story/A/A_015.html) - words: alien life
-- [Art Camp - B2](/duolingo/story/A/A_018.html)
-- [Astronaut Camp](/duolingo/story/A/A_020.html)
-- [Talent Show - B2](/duolingo/story/T/T_001.html)
-- [Thanks for the Memories - B2](/duolingo/story/T/T_004.html)
+### A
+
+- [A Letter to Eddy](/duolingo/story/A/005.html)
+- [A Real Prince](/duolingo/story/A/008.html)
+- [A Relaxing Weekend](/duolingo/story/A/009.html)
+- [A Romantic Date](/duolingo/story/A/010.html)
+- [Adopt These Dogs](/duolingo/story/A/013.html)
+- [Aliens Are Real](/duolingo/story/A/015.html) - words: alien life
+- [Art Camp - B2](/duolingo/story/A/018.html)
+- [Astronaut Camp](/duolingo/story/A/020.html)
+
+### T
+
+- [Talent Show - B2](/duolingo/story/T/001.html)
+- [Thanks for the Memories - B2](/duolingo/story/T/004.html)
+- [This Tastes Strange](/duolingo/story/T/006.html)
+- [This Week's School Highlights - B2](/duolingo/story/T/007.html)
+- [The Accident](/duolingo/story/T/012.html)
+- [The Art Competition - B2](/duolingo/story/T/013.html)
+- [The Art Department - B2](/duolingo/story/T/014.html)
+- [The Art of Persuasion - B2](/duolingo/story/T/015.html)
+- [The Art Show](/duolingo/story/T/016.html)
+- [The Action Figure - B2](/duolingo/story/T/017.html)
+- [The Auction - B2](/duolingo/story/T/018.html)
+- [The Best Cookies](/duolingo/story/T/022.html)
+- [The Fancy Hotel - B2](/duolingo/story/T/034.html)
+
+###
+
+🟡
