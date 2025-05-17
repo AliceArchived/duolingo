@@ -13,7 +13,8 @@ description: some description
 - [A Relaxing Weekend](/duolingo/story/A/009.html)
 - [A Romantic Date](/duolingo/story/A/010.html)
 - [Adopt These Dogs](/duolingo/story/A/013.html)
-- [Aliens Are Real](/duolingo/story/A/015.html) - words: alien life
+- [Aliens Are Real](/duolingo/story/A/015.html)
+  - vocabulary: alien life
 - [Art Camp - B2](/duolingo/story/A/018.html)
 - [Astronaut Camp](/duolingo/story/A/020.html)
 
@@ -32,7 +33,15 @@ description: some description
 - [The Auction - B2](/duolingo/story/T/018.html)
 - [The Best Cookies](/duolingo/story/T/022.html)
 - [The Fancy Hotel - B2](/duolingo/story/T/034.html)
+- [The Frog](/duolingo/story/T/036.html)
+- [The Great Blackout - B2](/duolingo/story/T/038.html)
+- [The Matchmaker - B2](/duolingo/story/T/048.html)
+  - vocabulary:
+    - 'Walk to' vs 'Walk up' vs 'Walk over'
+    - 'Protagonist' vs 'Main Character' vs 'Hero'
+- [The Mountain](/duolingo/story/T/049.html)
 
 ###
 
+🌟
 🟡
