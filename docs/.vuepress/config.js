@@ -95,6 +95,11 @@ export default defineUserConfig({
             '/story/C/001.md',
             '/story/C/002.md',
             '/story/C/003.md',
+            '/story/C/004.md',
+            '/story/C/005.md',
+            '/story/C/006.md',
+            '/story/C/007.md',
+            '/story/C/008.md',
           ],
         },
         {
