@@ -103,12 +103,43 @@ export default defineUserConfig({
           ],
         },
         {
-          text: 'Story - D ',
+          text: 'Story - D',
           collapsible: true,
           children: [
             '/story/D/001.md',
             '/story/D/002.md',
             '/story/D/003.md',
+            '/story/D/004.md',
+            '/story/D/005.md',
+            '/story/D/006.md',
+            '/story/D/007.md',
+          ],
+        },
+        {
+          text: 'Story - E',
+          collapsible: true,
+          children: [
+            '/story/E/001.md',
+            '/story/E/002.md',
+            '/story/E/003.md',
+          ],
+        },
+        {
+          text: 'Story - F',
+          collapsible: true,
+          children: [
+            '/story/F/001.md',
+            '/story/F/002.md',
+            '/story/F/003.md',
+          ],
+        },
+        {
+          text: 'Story - G',
+          collapsible: true,
+          children: [
+            '/story/G/001.md',
+            '/story/G/002.md',
+            '/story/G/003.md',
           ],
         },
         {
