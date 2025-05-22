@@ -50,3 +50,9 @@ description: some description
 > Corrections:
 
 🌟 Formal Style
+
+🌟 Band 8
+
+🌟 IELTS Band 8 Version:
+
+🌟 IELTS Speaking Band 7.0–7.5
