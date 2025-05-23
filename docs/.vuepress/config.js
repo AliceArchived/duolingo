@@ -33,6 +33,14 @@ export default defineUserConfig({
           ],
         },
         {
+          text: 'Sound',
+          collapsible: true,
+          children: [
+            '/sound/vowel.md',
+            '/sound/consonant.md',
+          ],
+        },
+        {
           text: 'Story - A ',
           collapsible: true,
           children: [
